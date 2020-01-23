@@ -1,5 +1,5 @@
 # Sonic-Go
-Client library for the Sonic data streaming protocol.
+Client library for the Sonic data streaming protocol. Library is WIP so do not use yet.
 
 # Installation
 ```
