@@ -3,13 +3,13 @@ Client library for the Sonic data streaming protocol. Library is WIP so do not u
 
 # Installation
 ```
-go get github.com/hiperio/sonic-go
+go get github.com/ernestrc/sonic-go
 ```
 # Usage
 TODO
 
 # Documentation
-See https://godoc.org/github.com/hiperio/sonic-go.
+See https://godoc.org/github.com/ernestrc/sonic-go.
 
 # License
 MIT License

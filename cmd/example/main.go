@@ -5,7 +5,7 @@ import (
 	"flag"
 	"os"
 
-	sonic "github.com/hiperio/sonic-go"
+	sonic "github.com/ernestrc/sonic-go"
 	log "github.com/sirupsen/logrus"
 )
 

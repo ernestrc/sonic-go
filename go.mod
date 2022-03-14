@@ -1,4 +1,4 @@
-module github.com/hiperio/sonic-go
+module github.com/ernestrc/sonic-go
 
 go 1.13
 
